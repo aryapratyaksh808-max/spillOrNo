@@ -135,3 +135,7 @@ Your actual repository structure may differ. Keep the dataset in the location ex
 Thanks to the dataset contributors for making Sentinel-1 SAR oil-spill detection data publicly available through Kaggle.
 
 **Dataset source:** [Sentinel-1 SAR Oil Spill Detection Dataset — Kaggle](https://www.kaggle.com/datasets/harikrishnacs/sentinel-1-sar-oil-spill-detection-dataset)
+
+## 🎥 Project Demo
+
+[▶ Watch the Project Demo](YOUR_GITHUB_VIDEO_URL)
