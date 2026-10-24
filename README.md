@@ -138,4 +138,4 @@ Thanks to the dataset contributors for making Sentinel-1 SAR oil-spill detection
 
 ## 🎥 Project Demo
 
-[▶ Watch the Project Demo](YOUR_GITHUB_VIDEO_URL)
+[▶ Watch the Project Demo](https://youtu.be/cfBv6dim7Ns)
