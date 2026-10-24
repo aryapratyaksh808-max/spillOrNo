@@ -1,0 +1,12 @@
+ipykernel
+jupyter
+matplotlib
+numpy
+opencv-python
+pandas
+Pillow
+scikit-learn
+streamlit
+torch
+torchvision
+
